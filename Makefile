@@ -16,4 +16,3 @@ $(TARGET): $(OBJ)
 clean:
 	rm -rf build *.o
 
-.PHONY: all clean
